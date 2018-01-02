@@ -1,14 +1,1 @@
-{  
-   "medicos":[  
-      {  
-         "nome":"João da Silva",
-         "especialidade":"Pediatria",
-         "foto":"ImagemEmBase64Aqui"
-      },
-      {  
-         "nome":"Ana Júlia da Silva",
-         "especialidade":"Cirurgia Cardíaca",
-         "foto":"ImagemEmBase64Aqui"
-      }
-   ]
-}
+{"medicos":[{"nome":"João da Silva","especialidade":"Pediatria","foto":"ImagemEmBase64Aqui"},{"nome":"Ana Júlia da Silva","especialidade":"Cirurgia Cardíaca","foto":"ImagemEmBase64Aqui"}]}
